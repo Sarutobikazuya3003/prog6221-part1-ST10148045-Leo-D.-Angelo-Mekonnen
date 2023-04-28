@@ -18,3 +18,7 @@ Download or clone the source code of the application from a code repository like
 Open the project in your IDE and configure any necessary settings, such as the target platform or build configuration.
 Build the application by compiling the source code into an executable file or package. This process may involve running a build script or using a tool such as MSBuild on Visual Studio.
 Once the build is complete, you can run the application by executing the generated executable file or by using a command or script.
+
+
+Link to Github Repository:
+https://github.com/IIEMSA/prog6221-part1-Sarutobikazuya3003
