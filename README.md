@@ -1,5 +1,5 @@
-Function of C# Application
-This is a C# console application for scaling and modifying recipes.
+Function of C# Application. 
+ This is a C# console application for scaling and modifying recipes.
 
 There are three classes defined in the application: MainClass, Ingredient, and Recipe.
 
