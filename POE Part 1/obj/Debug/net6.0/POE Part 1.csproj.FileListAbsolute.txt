@@ -1,0 +1,15 @@
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\bin\Debug\net6.0\POE Part 1.exe
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\bin\Debug\net6.0\POE Part 1.deps.json
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\bin\Debug\net6.0\POE Part 1.runtimeconfig.json
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\bin\Debug\net6.0\POE Part 1.dll
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\bin\Debug\net6.0\POE Part 1.pdb
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\POE Part 1.csproj.AssemblyReference.cache
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\POE Part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\POE Part 1.AssemblyInfoInputs.cache
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\POE Part 1.AssemblyInfo.cs
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\POE Part 1.csproj.CoreCompileInputs.cache
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\POE Part 1.dll
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\refint\POE Part 1.dll
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\POE Part 1.pdb
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\POE Part 1.genruntimeconfig.cache
+C:\Varsity IIE MSA\Year 2\Semester 1\Programming 2A (C#)\POE\POE Part 1\obj\Debug\net6.0\ref\POE Part 1.dll
