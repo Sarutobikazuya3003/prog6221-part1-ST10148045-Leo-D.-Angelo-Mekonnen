@@ -21,4 +21,4 @@ Once the build is complete, you can run the application by executing the generat
 
 
 Link to Github Repository:
-https://github.com/IIEMSA/prog6221-part1-Sarutobikazuya3003
+https://github.com/IIEMSA/prog6221-part1-Sarutobikazuya3003 n
